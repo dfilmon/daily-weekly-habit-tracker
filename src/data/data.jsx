@@ -1,0 +1,20 @@
+let dailyData = [
+  {
+    year: 2022,
+    month: 'december',
+    day: 2,
+    bibleChaptersRead: 0,
+    writtenWords: 50,
+    codeCommits: 7,
+  },
+  {
+    year: 2022,
+    month: 'december',
+    day: 3,
+    bibleChaptersRead: 1,
+    writtenWords: 300,
+    codeCommits: 21,
+  },
+];
+
+export default dailyData;
