@@ -10,8 +10,6 @@ export default function Bible() {
             Daily progress documented here.
           </span>
         </h2>
-
-        <p>Next feature goes here</p>
       </div>
 
       <div className="container p-8 mx-auto max-w-7xl py-12 px-4 sm:px-6  lg:items-center lg:justify-between lg:py-6 lg:px-8">
