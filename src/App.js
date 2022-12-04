@@ -10,6 +10,7 @@ export default function App() {
         {dailyData.map(function (data) {
           return (
             <div>
+              <img className='bibleImage' src="https://source.unsplash.com/random/?bible" alt="" />
               <b>
                 <span>{data.month} </span> <span>{data.day} </span>
                 <span>{data.year}</span>
