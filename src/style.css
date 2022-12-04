@@ -4,6 +4,10 @@ p {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-body{
+body {
   padding: 3em;
+}
+
+span {
+  /* margin-right: 1em; */
 }

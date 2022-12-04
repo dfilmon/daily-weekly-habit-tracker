@@ -10,13 +10,14 @@ export default function App() {
         {dailyData.map(function (data) {
           return (
             <div>
-              <h1>Today</h1>
-              <p>Year: {data.year}</p>
-              <p>Month: {data.month}</p>
-              <p>Day: {data.day}</p>
-              <p>Bible Chapters Read: {data.bibleChaptersRead}</p>
-              <p>Written Words: {data.writtenWords}</p>
-              <p>Code Commits: {data.codeCommits}</p>
+              <b>
+                <span>{data.month} </span> <span>{data.day} </span>
+                <span>{data.year}</span>
+              </b>
+              <br />
+              <p>{data.bibleChaptersRead} Bible chapters read</p>
+              <p>{data.writtenWords} Words written</p>
+              <p>{data.codeCommits} Code Commits</p>
               <br />
               <br />
             </div>
