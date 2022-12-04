@@ -11,3 +11,8 @@ body {
 span {
   /* margin-right: 1em; */
 }
+
+.bibleImage {
+  width: 100px;
+  height: 100px;
+}
