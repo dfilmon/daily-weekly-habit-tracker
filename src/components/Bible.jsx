@@ -218,6 +218,57 @@ export default function Bible() {
             or in love and a spirit of gentleness?
           </p>
         </div>
+
+        <div className="readings flex mt-8">
+          <p className="mx-12">
+            1 ምንዝርና ብሱሩ፡ ከምኡ ዘመሰለ ምንዝርናስ ኣብቶም ኣህዛብ እኳ ዜልቦ፡ ማለት፡ ሓደ ኻባኻትኩም ነታ
+            ሰበይቲ ኣቦኡ ኸም ዘእተወ፡ ይውረየኩም ኣሎ። 2 ምስናይዚ ኸኣ ተነፊሕኩም ኣሎኹም እሞ፡ እቲ እዚ ግብርዚ
+            ዝገበረ ኻብ ማእከልኩም ምእንቲ ኺርሕቕ ኢልኩም፡ ከቶ ኣይጒሄኹምን። 3-5 ኣነ ግና ብስጋይ ርሑቕ ክነሰይ፡
+            ብመንፈሰይ ምሳኻትኩም እየ፡ ንስኻትኩምን መንፈሰይን ብስም ጐይታና የሱስ ተኣኪብና ኸሎና፡ ብሓይሊ ጐይታና
+            የሱስ እዚ ኸምዚ ዝገበረ፡ መንፈሱ በታ መዓልቲ ጐይታና የሱስ ምእንቲ ኺድሕንሲ፡ ንጥፍኣት ስጋኡ ንሰይጣን
+            ኪውሃብ፡ ከም ምሳኻትኩም ኰይነ ድሮ ፈሪደ ኣሎኹ። 6 ሓበንኩም ጽቡቕ ኣይኰነን። ቅሩብ ማይ ብሑቝ ንብዘሎ
+            እቲ ብሑቝ ከም ዜብኲዖዶ ኣይትፈልጡን ኢኹም፧ 7 ገንሸል ፋስጋና፡ ማለት ክርስቶስ፡ ተሰዊኡ እዩ እሞ፡ ከምቲ
+            ዘይምጹጻት ዝዀንኩም፡ ሓድሽ ብሑቝ ምእንቲ ኽትኰኑ፡ ነቲ ኣረጊት ማይ ብሑቝ ኣጽሪኹም ኣውጽእዎ። 8 ስለዚ
+            ብናይ ገርህነትን ሓቅን ብዘይመጸጸ እንጌራ በዓል ነብዕል እምበር፡ በቲ ኣረጊት ማይ ብሑቝ ወይስ ብማይ ብሑቝ
+            እከይን ሕሰምን ኣይኰነን። 9 ምስ ኣመንዝራታት ኣይትጸምበሩ ኢለ ኣብታ ደብዳበይ ጽሒፈልኩም ኣሎኹ። 10
+            ግናኸ ምስ ኣመንዝራታት እዛ ዓለም እዚኣ ወይስ ምስ ስሱዓትን ዘረፍትን ወይስ ምስ መምለኽቲ ጣኦት ኢለ ግዳ
+            ኣይኰንኩን ዝጸሐፍኩ፡ እንተ ዘይኰነስ ካብዛ ዓለም እዚኣ ኽትወጹ ምተገብኣኩም ነይሩ። 11 ሕጂ ግና ምስ ሓደ
+            ሓው ዚብሃል እሞ ኣመንዝራ፡ ወይስ ስሱዕ፡ ወይስ መምለኽ ጣኦት፡ ወይስ ተጻራፊ፡ ወይስ ሰካር፡ ወይስ ዘራፊ
+            እንተ ዀይኑ፡ ምስኡ ኸይትጽምበሩ፡ ምስ እዚ ኸምዚ ዝበለ ከቶ ኸይትበልዑ፡ ጽሒፈልኩም ኣሎኹ። 12 ነቶም ኣብ
+            ወጻኢ ዘለዉ ምፍራደይሲ እንታይ ገዲሱኒ እዩ፧ ነቶም ኣብ ውሽጢ ዘለዉ እትፈርዱ ግዳ ንስኻትኩምዶ
+            ኣይኰንኩምን፧ 13 ነቶም ኣብ ወጻኢ ዘለዉ ግና ኣምላኽ ኪፈርዶም እዩ። ነቲ እኩይ ካባኻትኩም ኣውጽእዎ።
+          </p>
+
+          <p className="mx-12">
+            1 It is actually reported that there is sexual immorality among you,
+            and such sexual immorality as is not even named among the Gentiles,
+            that one has his father''s wife. 2 You are puffed up, and didn''t
+            rather mourn, that he who had done this deed might be removed from
+            among you. 3 For I most certainly, as being absent in body but
+            present in spirit, have already, as though I were present, judged
+            him who has done this thing. 4 In the name of our Lord Jesus Christ,
+            you being gathered together, and my spirit, with the power of our
+            Lord Jesus Christ, 5 are to deliver such a one to Satan for the
+            destruction of the flesh, that the spirit may be saved in the day of
+            the Lord Jesus. 6 Your boasting is not good. Don''t you know that a
+            little yeast leavens the whole lump? 7 Purge out the old yeast, that
+            you may be a new lump, even as you are unleavened. For indeed
+            Christ, our Passover, has been sacrificed in our place. 8 Therefore
+            let us keep the feast, not with old yeast, neither with the yeast of
+            malice and wickedness, but with the unleavened bread of sincerity
+            and truth. 9 I wrote to you in my letter to have no company with
+            sexual sinners; 10 yet not at all meaning with the sexual sinners of
+            this world, or with the covetous and extortioners, or with
+            idolaters; for then you would have to leave the world. 11 But as it
+            is, I wrote to you not to associate with anyone who is called a
+            brother who is a sexual sinner, or covetous, or an idolater, or a
+            slanderer, or a drunkard, or an extortioner. Don''t even eat with
+            such a person. 12 For what have I to do with also judging those who
+            are outside? Don''t you judge those who are within? 13 But those who
+            are outside, God judges. "Put away the wicked man from among
+            yourselves."
+          </p>
+        </div>
       </div>
     </div>
   );
