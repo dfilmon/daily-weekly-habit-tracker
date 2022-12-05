@@ -9,40 +9,43 @@ export default function App() {
   return (
     <div>
       <div>
-        {dailyData.map(function (data) {
-          return (
-            <div
-              onClick={() => {
-                return (
-                  <div>
-                    {console.log('clicked')}
-                    <h1>Filmon Abraha</h1>
-                  </div>
-                );
-              }}
-              className="statContainer"
-            >
-              <img
-                className="bibleImage"
-                src="https://source.unsplash.com/random/?bible"
-                alt=""
-              />
-              <b>
-                <span>{data.month} </span> <span>{data.day} </span>
-                <span>{data.year}</span>
-              </b>
-              <br />
-              <p>{data.bibleChaptersRead} Bible chapters read </p>
-              <p>{data.writtenWords} Words written </p>
-              <p>{data.codeCommits} Code Commits </p>
-              <p>{data.noSpending} spending </p>
-              <p>{data.noSugar} no sugar </p>
-              <p>{data.eatGreens} eat green </p>
-              <br />
-              <br />
-            </div>
-          );
-        })}
+        {dailyData
+          .slice()
+          .reverse()
+          .map(function (data) {
+            return (
+              <div
+                onClick={() => {
+                  return (
+                    <div>
+                      {console.log('clicked')}
+                      <h1>Filmon Abraha</h1>
+                    </div>
+                  );
+                }}
+                className="statContainer"
+              >
+                <img
+                  className="bibleImage"
+                  src="https://source.unsplash.com/random/?bible"
+                  alt=""
+                />
+                <b>
+                  <span>{data.month} </span> <span>{data.day} </span>
+                  <span>{data.year}</span>
+                </b>
+                <br />
+                <p>{data.bibleChaptersRead} Bible chapters read </p>
+                <p>{data.writtenWords} Words written </p>
+                <p>{data.codeCommits} Code Commits </p>
+                <p>{data.noSpending} spending </p>
+                <p>{data.noSugar} no sugar </p>
+                <p>{data.saladBowl} Bowls of salad </p>
+                <br />
+                <br />
+              </div>
+            );
+          })}
       </div>
       <Bible />
     </div>

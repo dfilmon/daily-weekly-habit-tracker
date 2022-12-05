@@ -21,7 +21,7 @@ span {
 
 .statContainer {
   width: fit-content;
-  height: 300px;
+  height: fit-content;
   padding: 3em;
   margin: 2em;
   background-color: white;
