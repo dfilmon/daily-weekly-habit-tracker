@@ -19,9 +19,9 @@ let dailyData = [
     year: 2022,
     month: 'December',
     day: 4,
-    bibleChaptersRead: 1,
+    bibleChaptersRead: 2,
     writtenWords: 300,
-    codeCommits: 21,
+    codeCommits: 5,
   },
 ];
 
