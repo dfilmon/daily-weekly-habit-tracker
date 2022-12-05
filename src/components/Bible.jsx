@@ -107,7 +107,7 @@ export default function Bible() {
             ንስኻትኩምሲ ናይ ክርስቶስ ደኣ ኢኹም፡ ክርስቶስውን ናይ ኣምላኽ እዩ።
           </p>
 
-          <p className="mx-12"> 
+          <p className="mx-12">
             1 Brothers, I couldn''t speak to you as to spiritual, but as to
             fleshly, as to babies in Christ. 2 I fed you with milk, not with
             meat; for you weren''t yet ready. Indeed, not even now are you
@@ -145,6 +145,77 @@ export default function Bible() {
             Apollos, or Cephas, or the world, or life, or death, or things
             present, or things to come. All are yours, 23 and you are Christ''s,
             and Christ is God''s.
+          </p>
+        </div>
+
+        <div className="readings flex mt-8">
+          <p className="mx-12">
+            1 ከምኡኸ ሰብ ንኣና ኸም ኣገልገልቲ ክርስቶስን ከም መገብቲ ምስጢር ኣምላኽን ደኣ ይቝጸሩና። 2 ምስናይ
+            እዚ ኻብ መገብቲ ነፍሲ ወከፍ እሙን ኰይኑ ኺርከብ የድሊ እዩ። 3-4 ንኣይሲ ብኣኻትኩም ወይስ ብመዓልቲ
+            ፍርዲ ሰብ እንተ ተፈረድኩ እኳ፡ ግዲ የብለይን። ኣብ ርእሰይ ሓንቲ እኳ ኣይፈልጥን እየ፡ ዚፈርደኒ ግና
+            ኣምላኽ እዩ እምበር፡ በዚ ኣይጸደቕኩን እሞ ንርእሰይ ባዕለይ ኣይፈርዳን እየ። 5 ስለዚ እቲ ኣብ ጸልማት
+            እተሐብኤ ናብ ብርሃን ዜምጽእ፡ ሓሳባት ልቢ ኸኣ ዚገልጽ ጐይታ ኽሳዕ ዚመጽእ፡ ቅድሚ ጊዜኡ ሓንቲ እኳ
+            ኣይትፍረዱ። ሽዑ ድማ ነፍሲ ወከፍ ነንእዶኡ ኻብ ኣምላኽ ኪቕበል እዩ። 6 ኣሕዋተየ፡ ንጥቕሚ እቲ ሓደ፡
+            ንጒድኣት እቲ ኻልእ ኢልኩም ከይትንፍሑ፡ ክንየው እቲ ጽሑፍ ከይትሐስቡ፡ ብኣና ምእንቲ ኽትምሃሩ፡ እዚ
+            ብዛዕባኹም ኣብ ርእሰይን ኣብ ኣጵሎስን መሲለዮ ኣሎኹ። 7 ካብ ካልኦት ዘብለጸካ መን እዩ፧ ዘይተቐበልካዮኸ
+            እንታይ ኣሎካ፧ ተቐቢልካ ኻብ እትኸውን ግና፡ ስለምንታይ ከም ዘይተቐበልካ ዄንካ እትኽበር፧ 8 ድሮ
+            ጸገብኩም፡ ድሮ ሃብተምኩም፡ ብጀካና ነገስኩም። ንሕናውን ምሳኻትኩም፡ ምእንቲ ኽንነግስሲ፡ ወሸለ ምነገስኩም።
+            9 ኣምላኽ ንኣና ሃዋርያት፡ ድሕሪ ዂላቶም ኴንና፡ ከምቶም ሞት እተፈርዶም ከም ዝገበረና፡ ይመስለኒ። ስለዚ
+            ንዓለምን ንመላእኽትን ንሰብን ትርኢት መስሓቒ ዄንና ኣሎና። 10 ንሕና ስለ ክርስቶስ ዓያሱ ኢና፡ ንስኻትኩም
+            ግና ብክርስቶስ ጥበበኛታት ኢኹም፡ ንሕና ሕማቓት፡ ንስኻትኩም ግና ሓያላት፡ ንስኻትኩም ክቡራት፡ ንሕና ግና
+            ሕሱራት ኢና። 11 ክሳዕ ሕጂ ንጠምን ንጸምእን ንዓርቕን ንጽፋዕን ኣሎና፡ ማሕደር የብልናን፡ 12 ብገዛእ
+            ኣእዳውና እናዓየና ድማ ንጽዕር ኣሎና። እናጸረፉና ንምርቕ፡ እናሰጐጉና ንዕገስ፡ 13 እናተሐሜና ንምዕድ
+            ኣሎና። ክሳዕ ሕጂ ኸም ጐሓፍ ዓለምን ከም ናይ ኲላቶም ጐዱፍን ኴንና ኣሎና። 14-15 ብክርስቶስ ኣእላፋት
+            መዕበይቲ እኳ እንተ ኣለዉኹም፡ ኣነ ብክርስቶስ የሱስ ብወንጌል ወሊደኩም እየ እሞ፡ ብዙሓት ኣቦታትሲ
+            የብልኩምን። እዚ ዝጽሕፈልኩም ዘሎኹ፡ ከም ፍቁራት ደቀይ ገይረ ኽምዕደኩም እየ እምበር፡ ከሕፍረኩም ኢለ
+            ኣይኰንኩን። 16 ስለዚ፡ ሰዓብተይ ኩኑ፡ ኢለ እምዕደኩም ኣሎኹ። 17 በዚ ምኽንያት እዚ ኸኣ ኣብ ኲሉ ስፍራ
+            ፍቕዳ ማሕበር ከመይ ገይረ ኸም ዝምህር፡ መገደይ ብክርስቶስ የሱስ ምእንቲ ኼዘክረኩም፡ እቲ ብጐይታ ፍቁርን
+            እሙንን ወደይ ጢሞቴዎስ ሰዲደልኩም ኣሎኹ። 18 ሓያሎ ግና፡ ኣነ ናባኻትኩም ዘይመጽእ መሲልዎም፡ እተነፍሑ
+            ኣለዉ። 19-20 መንግስቲ ኣምላኽ ብሓይሊ እምበር፡ ብዘረባ ኣይኰነትን ዘላ እሞ፡ ጐይታ እንተ ፈቐዶስ፡
+            ቀልጢፈ ናባኻትኩም ክመጽእ እየ፡ ሽዑ ሓይሊ እቶም ንፉሓት ክፈልጥ እየ እምበር፡ ቃሎም ኣይኰነን። 21
+            ብበትሪዶ ወይስ ብፍቕርን ብመንፈስ ለውሃትን ክመጻኩም፧ እንታይ ትደልዩ፧
+          </p>
+
+          <p className="mx-12">
+            1 So let a man think of us as Christ''s servants, and stewards of
+            God''s mysteries. 2 Here, moreover, it is required of stewards, that
+            they be found faithful. 3 But with me it is a very small thing that
+            I should be judged by you, or by man''s judgment. Yes, I don''t
+            judge my own self. 4 For I know nothing against myself. Yet I am not
+            justified by this, but he who judges me is the Lord. 5 Therefore
+            judge nothing before the time, until the Lord comes, who will both
+            bring to light the hidden things of darkness, and reveal the
+            counsels of the hearts. Then each man will get his praise from God.
+            6 Now these things, brothers, I have in a figure transferred to
+            myself and Apollos for your sakes, that in us you might learn not to
+            think beyond the things which are written, that none of you be
+            puffed up against one another. 7 For who makes you different? And
+            what do you have that you didn''t receive? But if you did receive
+            it, why do you boast as if you had not received it? 8 You are
+            already filled. You have already become rich. You have come to reign
+            without us. Yes, and I wish that you did reign, that we also might
+            reign with you. 9 For, I think that God has displayed us, the
+            apostles, last of all, like men sentenced to death. For we are made
+            a spectacle to the world, both to angels and men. 10 We are fools
+            for Christ''s sake, but you are wise in Christ. We are weak, but you
+            are strong. You have honor, but we have dishonor. 11 Even to this
+            present hour we hunger, thirst, are naked, are beaten, and have no
+            certain dwelling place. 12 We toil, working with our own hands. When
+            people curse us, we bless. Being persecuted, we endure. 13 Being
+            defamed, we entreat. We are made as the filth of the world, the dirt
+            wiped off by all, even until now. 14 I don''t write these things to
+            shame you, but to admonish you as my beloved children. 15 For though
+            you have ten thousand tutors in Christ, yet not many fathers. For in
+            Christ Jesus, I became your father through the Good News. 16 I beg
+            you therefore, be imitators of me. 17 Because of this I have sent
+            Timothy to you, who is my beloved and faithful child in the Lord,
+            who will remind you of my ways which are in Christ, even as I teach
+            everywhere in every assembly. 18 Now some are puffed up, as though I
+            were not coming to you. 19 But I will come to you shortly, if the
+            Lord is willing. And I will know, not the word of those who are
+            puffed up, but the power. 20 For the Kingdom of God is not in word,
+            but in power. 21 What do you want? Shall I come to you with a rod,
+            or in love and a spirit of gentleness?
           </p>
         </div>
       </div>
