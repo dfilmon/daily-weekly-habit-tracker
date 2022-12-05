@@ -32,9 +32,12 @@ export default function App() {
                 <span>{data.year}</span>
               </b>
               <br />
-              <p>{data.bibleChaptersRead} Bible chapters read</p>
-              <p>{data.writtenWords} Words written</p>
-              <p>{data.codeCommits} Code Commits</p>
+              <p>{data.bibleChaptersRead} Bible chapters read </p>
+              <p>{data.writtenWords} Words written </p>
+              <p>{data.codeCommits} Code Commits </p>
+              <p>{data.noSpending} spending </p>
+              <p>{data.noSugar} no sugar </p>
+              <p>{data.eatGreens} eat green </p>
               <br />
               <br />
             </div>

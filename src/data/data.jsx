@@ -6,6 +6,9 @@ let dailyData = [
     bibleChaptersRead: 0,
     writtenWords: 50,
     codeCommits: 7,
+    eatGreens: 1,
+    noSugar: true,
+    noSpending: true,
   },
   {
     year: 2022,
@@ -14,6 +17,9 @@ let dailyData = [
     bibleChaptersRead: 1,
     writtenWords: 300,
     codeCommits: 21,
+    eatGreens: 1,
+    noSugar: true,
+    noSpending: true,
   },
   {
     year: 2022,
@@ -22,6 +28,9 @@ let dailyData = [
     bibleChaptersRead: 2,
     writtenWords: 300,
     codeCommits: 7,
+    eatGreens: 1,
+    noSugar: true,
+    noSpending: true,
   },
 ];
 
