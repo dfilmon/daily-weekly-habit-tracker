@@ -4,12 +4,24 @@ import Bible from './components/Bible';
 import dailyData from './data/data.jsx';
 
 export default function App() {
+  // const [myState, setMyState] = useState
+
   return (
     <div>
       <div>
         {dailyData.map(function (data) {
           return (
-            <div onClick={ () => alert('test')} className='statContainer'>
+            <div
+              onClick={() => {
+                return (
+                  <div>
+                    {alert('clicked')}
+                    <h1>Filmon Abraha</h1>
+                  </div>
+                );
+              }}
+              className="statContainer"
+            >
               <img
                 className="bibleImage"
                 src="https://source.unsplash.com/random/?bible"
