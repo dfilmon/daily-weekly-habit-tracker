@@ -9,7 +9,7 @@ export default function App() {
       <div>
         {dailyData.map(function (data) {
           return (
-            <div className=''>
+            <div onClick={ () => alert('test')} className='statContainer'>
               <img
                 className="bibleImage"
                 src="https://source.unsplash.com/random/?bible"

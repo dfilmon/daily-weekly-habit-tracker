@@ -21,7 +21,7 @@ let dailyData = [
     day: 4,
     bibleChaptersRead: 2,
     writtenWords: 300,
-    codeCommits: 5,
+    codeCommits: 7,
   },
 ];
 
