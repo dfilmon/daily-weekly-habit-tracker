@@ -15,7 +15,7 @@ export default function App() {
               onClick={() => {
                 return (
                   <div>
-                    {alert('clicked')}
+                    {console.log('clicked')}
                     <h1>Filmon Abraha</h1>
                   </div>
                 );
