@@ -36,12 +36,12 @@ let dailyData = [
     year: 2022,
     month: 'December',
     day: 5,
-    bibleChaptersRead: 0,
-    writtenWords: 50,
+    bibleChaptersRead: 2,
+    writtenWords: 40,
     codeCommits: 7,
-    saladBowl: 2,
+    saladBowl: 1,
     noSugar: true,
-    noSpending: true,
+    moneySpent: 0,
   },
 ];
 

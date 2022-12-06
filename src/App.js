@@ -35,12 +35,12 @@ export default function App() {
                   <span>{data.year}</span>
                 </b>
                 <br />
-                <p>{data.bibleChaptersRead} Bible chapters read </p>
-                <p>{data.writtenWords} Words written </p>
-                <p>{data.codeCommits} Code Commits </p>
-                <p>{data.noSpending} spending </p>
+                <p>{data.bibleChaptersRead} chapters of Bible read </p>
+                <p>{data.writtenWords} mins of writting </p>
+                <p>{data.codeCommits} code Commits </p>
+                <p>{data.moneySpent} dollars spent </p>
                 <p>{data.noSugar} no sugar </p>
-                <p>{data.saladBowl} Bowls of salad </p>
+                <p>{data.saladBowl} bowls of salad </p>
                 <br />
                 <br />
               </div>
