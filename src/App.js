@@ -17,6 +17,10 @@ export default function App() {
             return (
               <motion.div
                 whileHover={{ scale: 1.1 }}
+                whileTap={{ scale: 0.9 }}
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
                 onClick={() => {
                   return (
                     <div>
