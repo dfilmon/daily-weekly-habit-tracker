@@ -2,12 +2,14 @@ import React from 'react';
 import './style.css';
 import Bible from './components/Bible';
 import dailyData from './data/data.jsx';
+import Chart from './components/Chart.jsx';
 
 export default function App() {
   // const [myState, setMyState] = useState
 
   return (
     <div>
+              <Chart />
       <div>
         {dailyData
           .slice()
