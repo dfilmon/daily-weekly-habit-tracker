@@ -1,37 +1,41 @@
 import React from 'react';
 import './style.css';
 import Bible from './components/Bible';
+import Test from './components/Test';
 import dailyData from './data/data.jsx';
 import { motion } from 'framer-motion';
 
 export default function App() {
   // const [myState, setMyState] = useState
 
+  const itemVariants = {
+    initial: { x: '-100vw', opacity: 0 },
+    animate: { x: 0, opacity: 1 },
+  };
+
   return (
     <div>
+      <Test />
       <div className="mainStat">
         {dailyData
           .slice()
           .reverse()
-          .map(function (data) {
+          .map(function (data, i) {
             return (
               <motion.div
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.9 }}
-                initial={{ scale: 0 }}
-                animate={{ rotate: 360, scale: 1 }}
-                transition={{
-                  type: 'spring',
-                  stiffness: 260,
-                  damping: 20,
-                }}
+                variants={itemVariants}
+                initial="initial"
+                animate="animate"
+                transition={{ duration: 0.3, delay: i * 0.2 }}
+                // whileHover={{ scale: 1.1 }}
+                // animate={{ rotate: 360, scale: 1 }}
+                // transition={{
+                //   type: 'spring',
+                //   stiffness: 260,
+                //   damping: 40,
+                // }}
                 onClick={() => {
-                  return (
-                    <div>
-                      {console.log('clicked')}
-                      <h1>Filmon Abraha</h1>
-                    </div>
-                  );
+                  return <div></div>;
                 }}
                 className="statContainer"
               >
