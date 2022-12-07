@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css';
 import Bible from './components/Bible';
 import dailyData from './data/data.jsx';
-import Chart from './components/Chart.jsx';
+import { motion } from 'framer-motion';
 
 export default function App() {
   // const [myState, setMyState] = useState
@@ -15,7 +15,8 @@ export default function App() {
           .reverse()
           .map(function (data) {
             return (
-              <div
+              <motion.div
+                whileHover={{ scale: 1.1 }}
                 onClick={() => {
                   return (
                     <div>
@@ -31,14 +32,14 @@ export default function App() {
                   <span>{data.year}</span>
                 </b>
                 <br />
-                <p>{data.bibleChaptersRead} chapters of Bible read </p>
-                <p>{data.codeCommits} chapters of Bible read </p>
-                <p>{data.writtenWords} chapters of Bible read </p>
-                <p>{data.saladBowl} chapters of Bible read </p>
+                <p>{data.bibleChaptersRead} Bible </p>
+                <p>{data.codeCommits} Commits </p>
+                <p>{data.writtenWords} Writing </p>
+                <p>{data.saladBowl} Salad </p>
 
                 <br />
                 <br />
-              </div>
+              </motion.div>
             );
           })}
       </div>
