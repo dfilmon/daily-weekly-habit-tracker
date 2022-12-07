@@ -9,8 +9,7 @@ export default function App() {
 
   return (
     <div>
-              <Chart />
-      <div>
+      <div className="mainStat">
         {dailyData
           .slice()
           .reverse()
@@ -27,22 +26,16 @@ export default function App() {
                 }}
                 className="statContainer"
               >
-                <img
-                  className="bibleImage"
-                  src="https://source.unsplash.com/random/?bible"
-                  alt=""
-                />
                 <b>
                   <span>{data.month} </span> <span>{data.day} </span>
                   <span>{data.year}</span>
                 </b>
                 <br />
                 <p>{data.bibleChaptersRead} chapters of Bible read </p>
-                <p>{data.writtenWords} mins of writting </p>
-                <p>{data.codeCommits} code Commits </p>
-                <p>{data.moneySpent} dollars spent </p>
-                <p>{data.noSugar} no sugar </p>
-                <p>{data.saladBowl} bowls of salad </p>
+                <p>{data.codeCommits} chapters of Bible read </p>
+                <p>{data.writtenWords} chapters of Bible read </p>
+                <p>{data.saladBowl} chapters of Bible read </p>
+
                 <br />
                 <br />
               </div>

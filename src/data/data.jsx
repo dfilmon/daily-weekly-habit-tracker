@@ -3,7 +3,7 @@ let dailyData = [
     year: 2022,
     month: 'December',
     day: 2,
-    bibleChaptersRead: 0,
+    bibleChaptersRead: 70,
     writtenWords: 50,
     codeCommits: 7,
     saladBowl: 0,

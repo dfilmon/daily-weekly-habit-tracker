@@ -19,10 +19,18 @@ span {
   border-radius: 50%;
 }
 
+
+
+.mainStat{
+ display: flex;
+ flex-wrap: wrap;
+}
+
 .statContainer {
   width: fit-content;
   height: fit-content;
   padding: 3em;
+  padding-bottom: 0em;
   margin: 2em;
   background-color: white;
 }

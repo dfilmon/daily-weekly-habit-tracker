@@ -1,18 +1,22 @@
 import * as d3 from 'd3';
 import React from 'react';
 import './style.css';
+import dailyData from '../data/data.jsx';
 
 export default class Chart extends React.Component {
   constructor(props) {
     super(props);
+    console.log('array of obj: ' + dailyData);
     this.ref = React.createRef();
     this.state = {
       data: [
-        { name: 'Ajinkya', height: 180 },
-        { name: 'Sejal', height: 140 },
-        { name: 'Jasmine', height: 145 },
-        { name: 'Milind', height: 160 },
-        { name: 'Swasti', height: 100 },
+        { name: 'Sunday', height: dailyData[0].bibleChaptersRead},
+        { name: 'Monday', height: 140 },
+        { name: 'Tuesday', height: 145 },
+        { name: 'Wednesday', height: 160 },
+        { name: 'Thursday', height: 100 },
+        { name: 'Friday', height: 100 },
+        { name: 'Saturday', height: 100 },
       ],
     };
   }
