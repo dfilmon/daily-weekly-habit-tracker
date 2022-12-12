@@ -65,6 +65,17 @@ let dailyData = [
     noSugar: true,
     moneySpent: 0,
   },
+  {
+    year: 2022,
+    month: 'December',
+    day: 12,
+    bibleChaptersRead: "1 Corinthians 9",
+    writtenWords: 40,
+    codeCommits: 7,
+    saladBowl: 1,
+    noSugar: true,
+    moneySpent: 0,
+  },
 ];
 
 export default dailyData;
