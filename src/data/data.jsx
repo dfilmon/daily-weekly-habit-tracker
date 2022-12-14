@@ -102,7 +102,7 @@ let dailyData = [
     year: 2022,
     month: 'December',
     day: 14,
-    bibleChaptersRead: '1 Corinthians 12',
+    bibleChaptersRead: '1 Corinthians 11:23',
     writtenWords: 40,
     codeCommits: 3,
     saladBowl: 1,
