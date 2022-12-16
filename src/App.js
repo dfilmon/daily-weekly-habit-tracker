@@ -11,6 +11,7 @@ export default function App() {
   const itemVariants = {
     initial: { x: '-100vw', opacity: 0 },
     animate: { x: 0, opacity: 1 },
+    whileInView: { opacity: 1 },
   };
 
   return (
